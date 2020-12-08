@@ -2,6 +2,8 @@
 
 Command line Python 3 implementation of the [XMR.to](https://xmr.to/) REST API.
 
+![XMR 2 BTC Build Status](https://github.com/Renegade-Master/xmr-to-btc/workflows/Python%20application/badge.svg)
+
 --- 
 
 ## How to Use
